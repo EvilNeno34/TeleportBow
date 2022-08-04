@@ -1,0 +1,9 @@
+name: TeleportBow
+version: '${project.version}'
+main: me.kiernan.teleportbow.TeleportBow
+api-version: 1.17
+authors: [ Kiernan ]
+description: A plugin that has a bow that allows players to teleport when an arrow lands
+commands:
+  givebow:
+    description: gives player magic tp bow
