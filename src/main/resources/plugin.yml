@@ -1,5 +1,5 @@
 name: TeleportBow
-version: '${project.version}'
+version: 1.0
 main: me.kiernan.teleportbow.TeleportBow
 api-version: 1.17
 authors: [ Kiernan ]
